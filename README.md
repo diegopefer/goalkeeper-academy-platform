@@ -44,39 +44,39 @@ Como el proyecto no está desplegado en un entorno público, a continuación se 
 
 ### 💻 Versión escritorio
 - **Vista pública – Home**  
-![Home](docs/mockups/mockup-home-desktop.webp)
+![Home](docs/mockups/mockup-home-desktop.jpg)
 
 - **Vista pública – Noticias**  
-![Noticias](docs/mockups/mockup-noticias-listado-desktop.webp)
+![Noticias](docs/mockups/mockup-noticias-listado-desktop.jpg)
 
 - **Vista pública – Porteros**  
-![Porteros](docs/mockups/mockup-porteros-listado-desktop.webp)
+![Porteros](docs/mockups/mockup-porteros-listado-desktop.jpg)
 
 - **Vista pública – Detalle de noticia**  
-![Detalle noticia](docs/mockups/mockup-noticia-detalle-desktop.webp)
+![Detalle noticia](docs/mockups/mockup-noticia-detalle-desktop.jpg)
 
 - **Panel de administración – Dashboard general**  
-![Dashboard](docs/mockups/mockup-admin-panel-desktop.webp)
+![Dashboard](docs/mockups/mockup-admin-panel-desktop.jpg)
 
 - **Panel de administración – Editar noticia**  
-![Editar noticia](docs/mockups/mockup-noticia-editar-desktop.webp)
+![Editar noticia](docs/mockups/mockup-noticia-editar-desktop.jpg)
 
 
 ### 📱 Versión móvil
 - **Vista pública – Home**  
-![Home](docs/mockups/mockup-home-mobile.webp)
+![Home](docs/mockups/mockup-home-mobile.jpg)
 
 - **Vista pública – Detalle de portero**  
-![Portero](docs/mockups/mockup-portero-ver-publico-mobile.webp)
+![Portero](docs/mockups/mockup-portero-ver-publico-mobile.jpg)
 
 - **Vista pública – Galería fotográfica**  
-![Galería fotográfica](docs/mockups/mockup-galeria-mobile.webp)
+![Galería fotográfica](docs/mockups/mockup-galeria-mobile.jpg)
 
 - **Panel de administración – Login**  
-![Login](docs/mockups/mockup-admin-login-mobile.webp)
+![Login](docs/mockups/mockup-admin-login-mobile.jpg)
 
 - **Panel de administración - Gestión de porteros**  
-![Gestión porteros](docs/mockups/mockup-porteros-gestion-mobile.webp)
+![Gestión porteros](docs/mockups/mockup-porteros-gestion-mobile.jpg)
 
 
 ## 📌 Estado del proyecto
